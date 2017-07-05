@@ -8,6 +8,6 @@
     ],
     "require": {},
     "psr-4":{
-    	"luckbu\\":""
+    	"luckbu\\model\\":""
     }
 }
