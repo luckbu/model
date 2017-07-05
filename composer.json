@@ -1,4 +1,13 @@
 {
     "name": "bu/model",
-    "require": {}
+    "authors": [
+        {
+            "name": "xuanbu",
+            "email": "xieya2011@163.com"
+        }
+    ],
+    "require": {},
+    "psr-4":{
+    	"luckbu\\":""
+    }
 }
